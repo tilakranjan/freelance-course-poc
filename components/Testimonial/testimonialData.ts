@@ -6,7 +6,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 1,
     name: "Devid Smith",
-    designation: "Founter @democompany",
+    designation: "Australia",
     image: image1,
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
@@ -14,7 +14,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 2,
     name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    designation: "Germany",
     image: image2,
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
@@ -22,7 +22,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 3,
     name: "Devid Smith",
-    designation: "Founter @democompany",
+    designation: "Brazil",
     image: image1,
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
@@ -30,7 +30,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 4,
     name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    designation: "Canada",
     image: image2,
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",

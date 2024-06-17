@@ -109,7 +109,7 @@ const About = () => {
                 fill
               />
               <Image
-                src="/images/about/about-dark-01.png"
+                src="/images/new/resources.png"
                 alt="About"
                 className="hidden dark:block"
                 fill
