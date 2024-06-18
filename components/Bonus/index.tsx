@@ -103,15 +103,9 @@ const About = () => {
               className="animate_left relative mx-auto hidden aspect-[588/526.5] md:block md:w-1/2"
             >
               <Image
-                src="/images/about/about-light-01.png"
-                alt="About"
-                className="dark:hidden"
-                fill
-              />
-              <Image
                 src="/images/new/resources.png"
-                alt="About"
-                className="hidden dark:block"
+                alt="resources"
+                className=""
                 fill
               />
             </motion.div>
